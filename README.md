@@ -2,14 +2,14 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 My name is Radu-Cristian Sarău.
 ============================================================================================================================================
 
-SDE Intern at Amazon & Third-year Computer Science & Engineering Student at the TU/e.
+SD Trainee at Crystalloids & Final-year Computer Science & Engineering Student at the TU/e.
 ---------------------------------------------------------------
 
-I am an aspiring Computer Scientist, Software Engineer, Full Stack Developer, Web Developer & Cyber Security Engineer.
+I am an aspiring Computer Scientist, Software Engineer, Full Stack Developer, Web Developer & Cloud Engineer.
 
-* 🌍  I'm based in Luxembourg, LU & Eindhoven, NL.
+* 🌍  I'm based in Delft, NL.
 * ✉️  You can contact me at [radusarau2004@outlook.com](mailto:radusarau2004@outlook.com)
-* 🧠  I'm learning React, TS and AWS Cloud Technologies.
+* 🧠  I'm learning React, TS and GCP.
 * 🤝  I'm open to collaborating on projects.
 
 ### Skills
